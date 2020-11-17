@@ -1,0 +1,29 @@
+<configs>
+	<append xpath="lootcontainers">
+		<lootgroup name="groupBooksZombiepedia">
+			<item name="item_Zombiepedia_book1_name"/>
+			<item name="item_Zombiepedia_book2_name"/>
+			<item name="item_Zombiepedia_book3_name"/>
+			<item name="item_Zombiepedia_book4_name"/>
+			<item name="item_Zombiepedia_book5_name"/>
+			<item name="item_Zombiepedia_book6_name"/>
+			<item name="item_Zombiepedia_book7_name"/>
+			<item name="item_Zombiepedia_book8_name"/>
+			<item name="item_Zombiepedia_book9_name"/>
+			<item name="item_Zombiepedia_book10_name"/>
+			<item name="item_Zombiepedia_book11_name"/>
+			<item name="item_Zombiepedia_book12_name"/>
+			<item name="item_Zombiepedia_book13_name"/>
+			<item name="item_Zombiepedia_book14_name"/>
+			<item name="item_Zombiepedia_book15_name"/>
+		</lootgroup>
+		
+		<lootcontainer id="472" count="3,5" size="5,2" sound_open="UseActions/open_garbage" sound_close="UseActions/close_garbage" loot_quality_template="qualBaseTemplate" destroy_on_close="true">
+			<item group="groupBooksZombiepedia"/>
+		</lootcontainer>
+	</append>
+			
+	<append xpath="/lootcontainers/lootgroup[@name='booksAllScaled']">
+		<item group="groupBooksZombiepedia" count="1" prob="25"/>
+	</append>
+</configs>	

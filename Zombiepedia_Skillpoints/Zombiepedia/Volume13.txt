@@ -1,0 +1,3 @@
+13.1: The gyrocopter and motorcycle travel at the same speed, but the gyrocopter can fly over obstacles. However, you have no defense from vultures while flying in a gyrocopter. - Shouden Kalferas\n
+13.2: During a blood moon, you cannot outrun vultures in any vehicle. During any other time, you can get away from them on higher tier vehicles. - jc2xs\n
+13.3: A 4x4 truck can hold substantially more items than a motorcycle or gyrocopter. This makes the truck a much more useful vehicle for trading or looting. - DeViT

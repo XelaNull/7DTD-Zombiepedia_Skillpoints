@@ -1,0 +1,5 @@
+1.1: Your gamestage defines the difficulty of the zombies that will attack you during a blood moon. - Shouden Kalferas\n
+1.2: During blood moon, vultures are able to fly at an amazing speed equivalent or possibly even surpassing that of all vehicles. - DeViT\n
+1.3: Blood moons occur every 7 days, although some survivors report experiencing blood moons with a varying range between 7 days and the variance configured. - Gouki & Shouden\n
+1.4: You are safe on blood moon day until the start of blood moon, which typically is 22:00. - Umbraldisappointment\n
+1.5: Garage doors can be used as emergency bridges and fall traps for the undead. - Umbraldisappointment\n

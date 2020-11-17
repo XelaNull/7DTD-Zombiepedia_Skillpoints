@@ -1,0 +1,5 @@
+10.1: Wear lucky goggles to give you slightly better chance at looting better quality items. - jc2xs\n
+10.2: Maximize your Lucky Looter perk to give you slightly better chance at looting better quality items. - Shouden Kalferas\n
+10.3: Selling robotic turret ammo can generate a substantial number of dukes. This can also get you better loot to buy from the Trader. - briston574\n
+10.4: Don't bring more than 3 stacks or 3 of a specific item to an individual Trader. The Trader won't buy that item if he/she has 3 stacks in their inventory. - DeViT\n
+10.5: Destroy every painting you see in a building as often you can find treasure hidden behind the painting. - DeViT

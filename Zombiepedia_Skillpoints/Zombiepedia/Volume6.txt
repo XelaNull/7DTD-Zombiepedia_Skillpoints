@@ -1,0 +1,5 @@
+6.1: Use concrete structures for the best base defensibility. Buildings like the water tower and fire station are popular choices. - Shouden Kalferas\n
+6.2: You may want to keep mulitple mini bases. Some to fight the horde in, some to store loot and craft in, especially when making long journeys across the map. - Doughphunghus\n
+6.3: A base with only one entrance/exit can easily turn into your tomb.  Make multiple entrances and exits so you can escape should you be overrun. - Doughphunghus\n
+6.4: A smaller base can be easier to defend and upgrade/maintain than a larger one - Doughphunghus\n
+6.5: Haybales negate most fall damage - DeViT

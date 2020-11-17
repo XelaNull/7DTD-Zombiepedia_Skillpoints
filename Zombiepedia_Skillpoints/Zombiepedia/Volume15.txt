@@ -1,0 +1,4 @@
+15.1: There are three classes of zombies: Normal, which can meander about at slow speeds and are easy to avoid or outrun. Feral, which run very fast and are difficult to outrun. Irradiated, which heal themselves over time, move quickly, and are difficult to kill. - Shouden Kalferas\n
+15.2: Vultures are likely to attack you when your health or your vehicle’s health is not 100% full. - Doughphunghus & Kakita987\n
+15.3: Some zombies and animals can jump quite high and far. Learn to recognize them - Doughphunghus\n
+15.4: Shoot demolition zombies even after they are dead to explode their corpse before their bomb explodes. - Shouden Kalferas

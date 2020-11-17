@@ -1,0 +1,258 @@
+<configs>
+	<append xpath="/quests">
+		<quest id="quest_Zombiepedia_Book1">
+			<property name="name_key" value="quest_Zombiepedia_Book1_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book1_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book1_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book1_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book1_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>
+		
+		<quest id="quest_Zombiepedia_Book2">
+			<property name="name_key" value="quest_Zombiepedia_Book2_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book2_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book2_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book2_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book2_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>
+		
+		<quest id="quest_Zombiepedia_Book3">
+			<property name="name_key" value="quest_Zombiepedia_Book3_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book3_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book3_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book3_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book3_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>
+		
+		<quest id="quest_Zombiepedia_Book4">
+			<property name="name_key" value="quest_Zombiepedia_Book4_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book4_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book4_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book4_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book4_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book5">
+			<property name="name_key" value="quest_Zombiepedia_Book5_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book5_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book5_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book5_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book5_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>
+				
+		<quest id="quest_Zombiepedia_Book6">
+			<property name="name_key" value="quest_Zombiepedia_Book6_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book6_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book6_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book6_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book6_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>
+				
+		<quest id="quest_Zombiepedia_Book7">
+			<property name="name_key" value="quest_Zombiepedia_Book7_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book7_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book7_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book7_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book7_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book8">
+			<property name="name_key" value="quest_Zombiepedia_Book8_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book8_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book8_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book8_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book8_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book9">
+			<property name="name_key" value="quest_Zombiepedia_Book9_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book9_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book9_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book9_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book9_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book10">
+			<property name="name_key" value="quest_Zombiepedia_Book10_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book10_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book10_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book10_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book10_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book11">
+			<property name="name_key" value="quest_Zombiepedia_Book11_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book11_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book11_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book11_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book11_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book12">
+			<property name="name_key" value="quest_Zombiepedia_Book12_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book12_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book12_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book12_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book12_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book13">
+			<property name="name_key" value="quest_Zombiepedia_Book13_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book13_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book13_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book13_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book13_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>		
+		
+		<quest id="quest_Zombiepedia_Book14">
+			<property name="name_key" value="quest_Zombiepedia_Book14_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book14_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book14_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book14_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book14_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>
+				
+		<quest id="quest_Zombiepedia_Book15">
+			<property name="name_key" value="quest_Zombiepedia_Book15_name"/>
+			<property name="subtitle_key" value="quest_Zombiepedia_Book15_subtitle"/>
+			<property name="description_key" value="quest_Zombiepedia_Book15_description"/>
+			<property name="icon" value="ui_game_symbol_quest" />
+			<property name="repeatable" value="false" />
+			<property name="category_key" value="quest" />
+			<property name="difficulty" value="easy" />
+			<property name="offer_key" value="quest_Zombiepedia_Book15_offer"/>
+			<property name="statement_key" value="quest_Zombiepedia_Book15_statement"/>
+			<property name="response_key" value="quest_Zombiepedia_dialog"/>				
+			<property name="group_name_key" value="quest_Zombiepedia_group"/>
+			<property name="shareable" value="false" />
+			
+			<reward type="SkillPoints" value="2" />
+		</quest>	
+	</append>
+</configs>

@@ -1,0 +1,2 @@
+5.1: Connecting 2 or more motion detectors in series (daisy chained) will activate output if any of them detects motion. This is useful for automated garage doors. - DeViT\n
+5.2: There are 2 types of relay, Normal: it allows you to extend your connections. Timer: is based on time of the day, it works by enabling/disabling itself certain hours of the day. - Gouki & DeViT

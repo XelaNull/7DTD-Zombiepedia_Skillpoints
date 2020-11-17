@@ -1,0 +1,10 @@
+8.1: Destroy tree stumps for a chance at obtaining honey. - DeViT\n
+8.2: Underground resources start with a node that is visible on the surface. Look for spots that have multiple nodes for a large quantity of underground resources. - Shouden Kalferas\n
+8.3: The rate that you regenerate stamina has a direct correlation to your fulfillment of food and water. - DeViT & Shouden Kalferas\n
+8.4: Destroying a bird’s nest yields additional feathers and cloth. - DeViT\n
+8.5: Cotton can be harvested and converted into bandages to stop bleeding. - DeViT\n
+8.6: Brass can be gained from smelting dukes. - DeViT\n
+8.7: You can also obtain brass from door knobs with one of the Wasteland Treasures skill books. - DeViT\n
+8.8: You can obtain brass from heating radiators in buildings. - Shouden Kalferas\n
+8.9: Beds are great sources for pipes and springs. - Umbraldisappointment\n
+8.10: Wrenching street lights and broken vending machines yields steel. - DeViT

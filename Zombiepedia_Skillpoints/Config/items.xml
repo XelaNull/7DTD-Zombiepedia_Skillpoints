@@ -1,0 +1,261 @@
+<configs>
+	<append xpath="/items">
+
+		<item name="item_Zombiepedia_bookMaster">
+			<property name="CreativeMode" value="None"/>
+			<property name="HoldType" value="21"/>
+			<property name="Meshfile" value="#Other/Items?Misc/bookPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourcePaper"/>
+			<property name="CustomIcon" value="schematicMaster"/>
+			<property name="CustomIconTint" value="556B2F"/>
+			<property name="Stacknumber" value="1"/> 
+			<property name="EconomicValue" value="600"/>
+			<property name="SellableToTrader" value="true"/>
+			<property name="FuelValue" value="2"/>
+			<property name="Weight" value="2"/>
+			<property name="Group" value="Special Items"/>			
+		</item>
+
+		<!-- Blood Moon Horde Night -->
+		<item name="item_Zombiepedia_book1_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book1_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook1" operation="LTE" value="0"/>
+				<property name="Class" value="Quest"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book1"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book1_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook1" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook1"/>
+			</effect_group>
+		</item>	
+		
+		<!-- Building Materials -->
+		<item name="item_Zombiepedia_book2_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book2_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook2" operation="LTE" value="0"/>
+				<property name="Class" value="Quest"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book2"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book2_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook2" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook2"/>
+			</effect_group>		
+		</item>	
+		
+		<!-- Clothing & Armor -->
+		<item name="item_Zombiepedia_book3_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book3_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook3" operation="LTE" value="0"/>
+				<property name="Class" value="Quest"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book3"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book3_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook3" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook3"/>
+			</effect_group>			
+		</item>	
+		
+		<!-- Education & XP Gain -->
+		<item name="item_Zombiepedia_book4_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book4_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook4" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book4"/>
+				<property name="Delay" value="0"/>
+			</property>			
+			<effect_group name="item_Zombiepedia_book4_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook4" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook4"/>
+			</effect_group>	
+		</item>	
+		
+		<!-- Electronics -->
+		<item name="item_Zombiepedia_book5_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book5_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook5" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book5"/>
+				<property name="Class" value="Quest"/>
+				<property name="Delay" value="0"/>
+			</property>			
+			<effect_group name="item_Zombiepedia_book5_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook5" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook5"/>
+			</effect_group>	
+		</item>	
+		
+		<!-- Existing Structure Bases (Above-Ground) -->
+		<item name="item_Zombiepedia_book6_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book6_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook6" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book6"/>
+				<property name="Delay" value="0"/>
+			</property>			
+			<effect_group name="item_Zombiepedia_book6_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook6" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook6"/>
+			</effect_group>	
+		</item>	
+		
+		<!-- Farming & Foods -->
+		<item name="item_Zombiepedia_book7_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book7_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook7" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book7"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book7_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook7" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook7"/>
+			</effect_group>			
+		</item>	
+		
+		<!-- Harvesting Resources -->
+		<item name="item_Zombiepedia_book8_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book8_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook8" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book8"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book8_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook8" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook8"/>
+			</effect_group>			
+		</item>	
+		
+		<!-- Inventory Management -->
+		<item name="item_Zombiepedia_book9_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book9_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook9" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book9"/>
+				<property name="Delay" value="0"/>
+			</property>		
+			<effect_group name="item_Zombiepedia_book9_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook9" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook9"/>
+			</effect_group>		
+		</item>	
+		
+		<!-- Maximizing Loot -->
+		<item name="item_Zombiepedia_book10_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book10_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook10" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book10"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book10_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook10" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook10"/>
+			</effect_group>			
+		</item>	
+		
+		<!-- Types of Zombies -->
+		<item name="item_Zombiepedia_book11_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book11_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook11" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book11"/>
+				<property name="Delay" value="0"/>
+			</property>			
+			<effect_group name="item_Zombiepedia_book11_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook11" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook11"/>
+			</effect_group>		
+		</item>	
+		
+		<!-- Traps -->
+		<item name="item_Zombiepedia_book12_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book12_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook12" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book12"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book12_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook12" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook12"/>
+			</effect_group>			
+		</item>	
+		
+		<!-- Underground Bases -->
+		<item name="item_Zombiepedia_book13_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book13_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook13" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book13"/>
+				<property name="Delay" value="0"/>
+			</property>	
+			<effect_group name="item_Zombiepedia_book13_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook13" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook13"/>
+			</effect_group>			
+		</item>	
+		
+		<!-- Vehicles -->
+		<item name="item_Zombiepedia_book14_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book14_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook14" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book14"/>
+				<property name="Delay" value="0"/>
+			</property>		
+			<effect_group name="item_Zombiepedia_book14_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook14" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook14"/>				
+			</effect_group>		
+		</item>	
+		
+		<!-- Weapons -->
+		<item name="item_Zombiepedia_book15_name"> 
+			<property name="DescriptionKey" value="item_Zombiepedia_book15_desc"/>						
+			<property name="Extends" value="item_Zombiepedia_bookMaster"/>
+			<property class="Action0">
+				<property name="Class" value="Quest"/>
+				<requirement name="CVarCompare" cvar="$ZombiepediaBook15" operation="LTE" value="0"/>
+				<property name="QuestGiven" value="quest_Zombiepedia_Book15"/>
+				<property name="Delay" value="0"/>
+			</property>			
+			<effect_group name="item_Zombiepedia_book15_name" tiered="false">
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$ZombiepediaBook15" operation="set" value="1"/>
+				<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddJournalEntry" journal="ZombiepediaBook15"/>
+			</effect_group>	
+		</item>	
+		
+  </append>
+</configs>

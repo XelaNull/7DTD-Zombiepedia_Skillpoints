@@ -1,0 +1,4 @@
+11.1: Use a generator or solar bank with blade traps as an effective way to chop down many zombies and help protect your base. - Shouden Kalferas\n
+11.2: Surround your base with multiple layers of iron spike traps for an effective defense. Its faster to craft wooden spike traps and then upgrade to iron spike traps, but it costs more in materials. - Shouden Kalferas\n
+11.3: When zombies fall they do not die, but they may get hurt if they fall far enough. Making them fall multiple times in a shorter distance may be better than making them fall a single time at a great distance - Doughphunghus\n
+11.4: Placing spikes at boar path can kill it without causing boar to target/attack player - DeViT

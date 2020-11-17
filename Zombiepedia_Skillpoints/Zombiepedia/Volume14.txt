@@ -1,0 +1,5 @@
+14.1: Armor Piercing(AP) ammo is effective against zombies or enemies wearing armor, while Hollow Point(HP) ammo is more effective against unarmored targets. - jc2xs\n
+14.2: Shotgun and SMG turrets must be powered by electricity, and you must lock the ammo into them. - Shouden Kalferas\n
+14.3: If you have empty mods slots on your weapon, find a mod and put it in.  Any mod (except dyes) will increase the damage your weapon does. This also will increase the amount you can sell it to Trader for. - jc2xs & nickcan\n
+14.4: Check weapons you are using to make sure you know what repairs it, then carry a few of those repair items with you. A broken weapon in your hand is a zombies best friend - Doughphunghus\n
+14.5: Fighting is not always the best solution! Rocks are frequently found on the ground and unaware zombies are easily drawn to the sounds of thrown rocks - Doughphunghus

@@ -1,0 +1,2 @@
+3.1: Padded armor provides the best stealth boost and doesn’t give any armor penalties. It’s great to allow you to move quickly without speed penalty.  - Shouden Kalferas & DeViT\n
+3.2: Steel armor offers the best defense, but requires more stamina consumption and generates a lot of noise. You move a little slower. - Gouki

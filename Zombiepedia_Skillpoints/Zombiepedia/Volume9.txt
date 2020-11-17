@@ -1,0 +1,7 @@
+9.1: Don't boil murky water until you need it as it stacks to 125 in quantity while boiled water stacks to 10. - Shouden Kalferas\n
+9.2: Always carry a stack of wood frames on you. They help climb, block doors, and act as fuel.\n
+9.3: Craft pocket mods for your shirt pants and coat/jacket as soon as you find some sewing kits. This will give you three extra slots early game.  Later, use the single, double, and triple pocket mods on your armor to gain more inventory capacity.  - jc2xs\n
+9.4: If you do a lot of looting, you may want to make secure containers you can just dump loot into so you can continue looting without going back to your base. You can always come back for it later. - Doughphunghus\n
+9.5: Instead of throwing unneeded items on the ground or leaving them in loot, scrap them, as scrapped materials always have a use. - Doughphunghus\n
+9.6: Before scrapping an item like clothing or weapons, remove any mods to scrap separately. An item with modifications cannot be scrapped. - Doughphunghus & DeViT\n
+9.7: Carrying many loaded blunderbusses on your hotbar is useful to get around low ammo capacity - DeViT
