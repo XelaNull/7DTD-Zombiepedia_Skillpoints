@@ -1,5 +1,5 @@
 <configs>
-	<append xpath="lootcontainers">
+	<insertBefore xpath="/lootcontainers/lootgroup[@name='booksAllScaled']">
 		<lootgroup name="groupBooksZombiepedia">
 			<item name="item_Zombiepedia_book1_name"/>
 			<item name="item_Zombiepedia_book2_name"/>
