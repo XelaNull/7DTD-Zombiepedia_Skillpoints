@@ -31,7 +31,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>
 		
 		<quest id="quest_Zombiepedia_Book3">
@@ -48,7 +48,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>
 		
 		<quest id="quest_Zombiepedia_Book4">
@@ -65,7 +65,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book5">
@@ -82,7 +82,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>
 				
 		<quest id="quest_Zombiepedia_Book6">
@@ -99,7 +99,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>
 				
 		<quest id="quest_Zombiepedia_Book7">
@@ -116,7 +116,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book8">
@@ -133,7 +133,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book9">
@@ -150,7 +150,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book10">
@@ -167,7 +167,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book11">
@@ -184,7 +184,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book12">
@@ -201,7 +201,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book13">
@@ -218,7 +218,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>		
 		
 		<quest id="quest_Zombiepedia_Book14">
@@ -235,7 +235,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>
 				
 		<quest id="quest_Zombiepedia_Book15">
@@ -252,7 +252,7 @@
 			<property name="group_name_key" value="quest_Zombiepedia_group"/>
 			<property name="shareable" value="false" />
 			
-			<reward type="SkillPoints" value="2" />
+			<reward type="SkillPoints" value="1" />
 		</quest>	
 	</append>
 </configs>
