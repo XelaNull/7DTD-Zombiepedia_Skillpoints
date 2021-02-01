@@ -21,7 +21,7 @@
 		<lootcontainer id="472" count="3,5" size="5,2" sound_open="UseActions/open_garbage" sound_close="UseActions/close_garbage" loot_quality_template="qualBaseTemplate" destroy_on_close="true">
 			<item group="groupBooksZombiepedia"/>
 		</lootcontainer>
-	</append>
+	</insertBefore>
 			
 	<append xpath="/lootcontainers/lootgroup[@name='booksAllScaled']">
 		<item group="groupBooksZombiepedia" count="1" prob="25"/>
