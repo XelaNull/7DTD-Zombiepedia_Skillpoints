@@ -26,4 +26,7 @@
 	<append xpath="/lootcontainers/lootgroup[@name='booksAllScaled']">
 		<item group="groupBooksZombiepedia" count="1" prob="25"/>
 	</append>
+	<append xpath="/lootcontainers/lootgroup[@name='junk']">
+		<item group="groupBooksZombiepedia" count="1"/>
+	</append>
 </configs>	
