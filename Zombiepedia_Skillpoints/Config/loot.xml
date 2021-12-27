@@ -24,7 +24,7 @@
 	</insertBefore>
 
 	<append xpath="/lootcontainers/lootgroup[@name='booksAllScaled']">
-		<item group="groupBooksZombiepedia" count="1" prob="20"/>
+		<item group="groupBooksZombiepedia" count="1" prob=".7"/>
 	</append>
 	<append xpath="/lootcontainers/lootgroup[@name='groupJunk02']">
 		<item group="groupBooksZombiepedia" count="1"/>
