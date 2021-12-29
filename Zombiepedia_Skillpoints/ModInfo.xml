@@ -4,7 +4,7 @@
 		<Name value="Zombiepedia Skillpoints" />
 		<Description value="Place encyclopedia books as random drops that give real tips and tricks, in exchange for one skillpoint for each book read." />
 		<Author value="Shouden Kalferas"/>
-		<Version value="A20_1.0b" />
+		<Version value="A20_1.0c" />
 		<Website value="https://github.com/XelaNull/7DTD-Zombiepedia_Skillpoints.git" />
 	</ModInfo>
 </xml>
